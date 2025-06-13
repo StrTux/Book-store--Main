@@ -44,8 +44,22 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📘 Book Preview
 
+<h2 align="center">📘 Book Store Previews</h2>
+
 <p align="center">
-  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782491/1_tira7p.jpg" width="250" alt="Book Cover"/>
+  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782491/1_tira7p.jpg" alt="Main Preview" style="width:70rem; height:28rem; object-fit:cover;" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782492/3_upbj1x.jpg" alt="Section 2" style="width:70rem; height:28rem; object-fit:cover;" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782492/4_onuxun.jpg" alt="User Feedback" style="width:70rem; height:28rem; object-fit:cover;" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782492/5_mkjsf9.jpg" alt="eBooks API Section" style="width:70rem; height:28rem; object-fit:cover;" />
 </p>
 
 
