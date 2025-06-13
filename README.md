@@ -42,6 +42,15 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
+## 📘 Book Preview
+
+<p align="center">
+  <img src="https://res.cloudinary.com/drwpjxlfs/image/upload/v1749782491/1_tira7p.jpg" width="250" alt="Book Cover"/>
+</p>
+
+
+
+
 ## 📄 License
 
 This project is licensed under the MIT License.
