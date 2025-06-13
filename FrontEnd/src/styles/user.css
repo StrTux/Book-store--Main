@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+
+.font-robot {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.text-sm {
+  font-size: 0.675rem !important;
+  line-height: 1.15rem !important;
+}
+
+.font-serif {
+  font-family: monospace;
+  font-weight: 400;
+}

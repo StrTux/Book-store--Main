@@ -1,0 +1,859 @@
+{
+  "note": "This is simulated data based on actual folder names, as direct MEGA API access requires a custom backend service",
+  "megaLink": "https://mega.nz/folder/35NghLJK#aPlma5kAMBx7Eaur7O6-1w",
+  "folderName": "Ancient Indian Scriptures Collection",
+  "totalFolders": 20,
+  "totalPdfFiles": 43,
+  "folders": [
+    {
+      "id": "f1",
+      "name": "aayurved _ Medicine",
+      "path": "/aayurved _ Medicine"
+    },
+    {
+      "id": "f2",
+      "name": "Ali Chalisa",
+      "path": "/Ali Chalisa"
+    },
+    {
+      "id": "f3",
+      "name": "Bhagvad Gita",
+      "path": "/Bhagvad Gita"
+    },
+    {
+      "id": "f4",
+      "name": "Brahma sphuta siddhanta",
+      "path": "/Brahma sphuta siddhanta"
+    },
+    {
+      "id": "f5",
+      "name": "DhanurVeda",
+      "path": "/DhanurVeda"
+    },
+    {
+      "id": "f6",
+      "name": "Important Granths",
+      "path": "/Important Granths"
+    },
+    {
+      "id": "f7",
+      "name": "Mahabharata _ Geeta",
+      "path": "/Mahabharata _ Geeta"
+    },
+    {
+      "id": "f8",
+      "name": "Niti Shastra",
+      "path": "/Niti Shastra"
+    },
+    {
+      "id": "f9",
+      "name": "Panini",
+      "path": "/Panini"
+    },
+    {
+      "id": "f10",
+      "name": "Ramayan _ more",
+      "path": "/Ramayan _ more"
+    },
+    {
+      "id": "f11",
+      "name": "Science in ved",
+      "path": "/Science in ved"
+    },
+    {
+      "id": "f12",
+      "name": "SHRI SHANKARACHARYA JI WORKS",
+      "path": "/SHRI SHANKARACHARYA JI WORKS"
+    },
+    {
+      "id": "f13",
+      "name": "Shri YogaVasishtha",
+      "path": "/Shri YogaVasishtha"
+    },
+    {
+      "id": "f14",
+      "name": "Sikh Guru",
+      "path": "/Sikh Guru"
+    },
+    {
+      "id": "f15",
+      "name": "Upanishads",
+      "path": "/Upanishads"
+    },
+    {
+      "id": "f16",
+      "name": "vacaspetyam",
+      "path": "/vacaspetyam"
+    },
+    {
+      "id": "f17",
+      "name": "vaidik vigyan",
+      "path": "/vaidik vigyan"
+    },
+    {
+      "id": "f18",
+      "name": "Varaha Mihira",
+      "path": "/Varaha Mihira"
+    },
+    {
+      "id": "f19",
+      "name": "Vedas(ENGLISH&HINDI)",
+      "path": "/Vedas(ENGLISH&HINDI)"
+    },
+    {
+      "id": "f20",
+      "name": "Vimanik Shastras In Sanatan Dharma",
+      "path": "/Vimanik Shastras In Sanatan Dharma"
+    }
+  ],
+  "files": [
+    {
+      "id": "f1_file1",
+      "name": "aayurved _ Medicine - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/aayurved _ Medicine/aayurved _ Medicine - Volume 1.pdf",
+      "size": 10887813
+    },
+    {
+      "id": "f1_file2",
+      "name": "aayurved _ Medicine - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/aayurved _ Medicine/aayurved _ Medicine - Volume 2.pdf",
+      "size": 6989998
+    },
+    {
+      "id": "f2_file1",
+      "name": "Ali Chalisa - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Ali Chalisa/Ali Chalisa - Volume 1.pdf",
+      "size": 1418371
+    },
+    {
+      "id": "f2_file2",
+      "name": "Ali Chalisa - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Ali Chalisa/Ali Chalisa - Volume 2.pdf",
+      "size": 2311777
+    },
+    {
+      "id": "f2_file3",
+      "name": "Ali Chalisa - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Ali Chalisa/Ali Chalisa - Volume 3.pdf",
+      "size": 2839507
+    },
+    {
+      "id": "f3_file1",
+      "name": "Bhagvad Gita - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Bhagvad Gita/Bhagvad Gita - Volume 1.pdf",
+      "size": 7170105
+    },
+    {
+      "id": "f3_file2",
+      "name": "Bhagvad Gita - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Bhagvad Gita/Bhagvad Gita - Volume 2.pdf",
+      "size": 7906059
+    },
+    {
+      "id": "f4_file1",
+      "name": "Brahma sphuta siddhanta - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Brahma sphuta siddhanta/Brahma sphuta siddhanta - Volume 1.pdf",
+      "size": 4877700
+    },
+    {
+      "id": "f5_file1",
+      "name": "DhanurVeda - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/DhanurVeda/DhanurVeda - Volume 1.pdf",
+      "size": 3642610
+    },
+    {
+      "id": "f6_file1",
+      "name": "Important Granths - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Important Granths/Important Granths - Volume 1.pdf",
+      "size": 8238533
+    },
+    {
+      "id": "f6_file2",
+      "name": "Important Granths - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Important Granths/Important Granths - Volume 2.pdf",
+      "size": 9001864
+    },
+    {
+      "id": "f7_file1",
+      "name": "Mahabharata _ Geeta - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 1.pdf",
+      "size": 5715478
+    },
+    {
+      "id": "f7_file2",
+      "name": "Mahabharata _ Geeta - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 2.pdf",
+      "size": 5541835
+    },
+    {
+      "id": "f7_file3",
+      "name": "Mahabharata _ Geeta - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 3.pdf",
+      "size": 1641199
+    },
+    {
+      "id": "f8_file1",
+      "name": "Niti Shastra - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Niti Shastra/Niti Shastra - Volume 1.pdf",
+      "size": 1316033
+    },
+    {
+      "id": "f8_file2",
+      "name": "Niti Shastra - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Niti Shastra/Niti Shastra - Volume 2.pdf",
+      "size": 4507973
+    },
+    {
+      "id": "f8_file3",
+      "name": "Niti Shastra - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Niti Shastra/Niti Shastra - Volume 3.pdf",
+      "size": 4611607
+    },
+    {
+      "id": "f9_file1",
+      "name": "Panini - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Panini/Panini - Volume 1.pdf",
+      "size": 2409306
+    },
+    {
+      "id": "f9_file2",
+      "name": "Panini - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Panini/Panini - Volume 2.pdf",
+      "size": 1292036
+    },
+    {
+      "id": "f9_file3",
+      "name": "Panini - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Panini/Panini - Volume 3.pdf",
+      "size": 3998599
+    },
+    {
+      "id": "f10_file1",
+      "name": "Ramayan _ more - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Ramayan _ more/Ramayan _ more - Volume 1.pdf",
+      "size": 6199982
+    },
+    {
+      "id": "f11_file1",
+      "name": "Science in ved - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Science in ved/Science in ved - Volume 1.pdf",
+      "size": 1909677
+    },
+    {
+      "id": "f12_file1",
+      "name": "SHRI SHANKARACHARYA JI WORKS - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/SHRI SHANKARACHARYA JI WORKS/SHRI SHANKARACHARYA JI WORKS - Volume 1.pdf",
+      "size": 4413568
+    },
+    {
+      "id": "f12_file2",
+      "name": "SHRI SHANKARACHARYA JI WORKS - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/SHRI SHANKARACHARYA JI WORKS/SHRI SHANKARACHARYA JI WORKS - Volume 2.pdf",
+      "size": 6444868
+    },
+    {
+      "id": "f13_file1",
+      "name": "Shri YogaVasishtha - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 1.pdf",
+      "size": 10279544
+    },
+    {
+      "id": "f13_file2",
+      "name": "Shri YogaVasishtha - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 2.pdf",
+      "size": 8876898
+    },
+    {
+      "id": "f13_file3",
+      "name": "Shri YogaVasishtha - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 3.pdf",
+      "size": 4374919
+    },
+    {
+      "id": "f14_file1",
+      "name": "Sikh Guru - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Sikh Guru/Sikh Guru - Volume 1.pdf",
+      "size": 6136427
+    },
+    {
+      "id": "f15_file1",
+      "name": "Upanishads - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Upanishads/Upanishads - Volume 1.pdf",
+      "size": 2771622
+    },
+    {
+      "id": "f15_file2",
+      "name": "Upanishads - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Upanishads/Upanishads - Volume 2.pdf",
+      "size": 9417369
+    },
+    {
+      "id": "f15_file3",
+      "name": "Upanishads - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Upanishads/Upanishads - Volume 3.pdf",
+      "size": 6239961
+    },
+    {
+      "id": "f16_file1",
+      "name": "vacaspetyam - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/vacaspetyam/vacaspetyam - Volume 1.pdf",
+      "size": 8267607
+    },
+    {
+      "id": "f16_file2",
+      "name": "vacaspetyam - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/vacaspetyam/vacaspetyam - Volume 2.pdf",
+      "size": 1244757
+    },
+    {
+      "id": "f17_file1",
+      "name": "vaidik vigyan - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/vaidik vigyan/vaidik vigyan - Volume 1.pdf",
+      "size": 1233930
+    },
+    {
+      "id": "f17_file2",
+      "name": "vaidik vigyan - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/vaidik vigyan/vaidik vigyan - Volume 2.pdf",
+      "size": 1253309
+    },
+    {
+      "id": "f17_file3",
+      "name": "vaidik vigyan - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/vaidik vigyan/vaidik vigyan - Volume 3.pdf",
+      "size": 2066196
+    },
+    {
+      "id": "f18_file1",
+      "name": "Varaha Mihira - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Varaha Mihira/Varaha Mihira - Volume 1.pdf",
+      "size": 4825238
+    },
+    {
+      "id": "f18_file2",
+      "name": "Varaha Mihira - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Varaha Mihira/Varaha Mihira - Volume 2.pdf",
+      "size": 9966907
+    },
+    {
+      "id": "f18_file3",
+      "name": "Varaha Mihira - Volume 3.pdf",
+      "type": "pdf",
+      "path": "/Varaha Mihira/Varaha Mihira - Volume 3.pdf",
+      "size": 5085204
+    },
+    {
+      "id": "f19_file1",
+      "name": "Vedas(ENGLISH&HINDI) - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Vedas(ENGLISH&HINDI)/Vedas(ENGLISH&HINDI) - Volume 1.pdf",
+      "size": 6760781
+    },
+    {
+      "id": "f19_file2",
+      "name": "Vedas(ENGLISH&HINDI) - Volume 2.pdf",
+      "type": "pdf",
+      "path": "/Vedas(ENGLISH&HINDI)/Vedas(ENGLISH&HINDI) - Volume 2.pdf",
+      "size": 8221392
+    },
+    {
+      "id": "f20_file1",
+      "name": "Vimanik Shastras In Sanatan Dharma - Volume 1.pdf",
+      "type": "pdf",
+      "path": "/Vimanik Shastras In Sanatan Dharma/Vimanik Shastras In Sanatan Dharma - Volume 1.pdf",
+      "size": 7405699
+    },
+    {
+      "id": "root_file1",
+      "name": "PURANAS IN HINDI AND ENGLISH",
+      "type": "pdf",
+      "path": "/PURANAS IN HINDI AND ENGLISH.pdf",
+      "size": 257000
+    }
+  ],
+  "structure": {
+    "name": "Ancient Indian Scriptures Collection",
+    "type": "folder",
+    "children": [
+      {
+        "name": "aayurved _ Medicine",
+        "type": "folder",
+        "path": "/aayurved _ Medicine",
+        "children": [
+          {
+            "name": "aayurved _ Medicine - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/aayurved _ Medicine/aayurved _ Medicine - Volume 1.pdf",
+            "size": 10887813
+          },
+          {
+            "name": "aayurved _ Medicine - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/aayurved _ Medicine/aayurved _ Medicine - Volume 2.pdf",
+            "size": 6989998
+          }
+        ]
+      },
+      {
+        "name": "Ali Chalisa",
+        "type": "folder",
+        "path": "/Ali Chalisa",
+        "children": [
+          {
+            "name": "Ali Chalisa - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Ali Chalisa/Ali Chalisa - Volume 1.pdf",
+            "size": 1418371
+          },
+          {
+            "name": "Ali Chalisa - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Ali Chalisa/Ali Chalisa - Volume 2.pdf",
+            "size": 2311777
+          },
+          {
+            "name": "Ali Chalisa - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Ali Chalisa/Ali Chalisa - Volume 3.pdf",
+            "size": 2839507
+          }
+        ]
+      },
+      {
+        "name": "Bhagvad Gita",
+        "type": "folder",
+        "path": "/Bhagvad Gita",
+        "children": [
+          {
+            "name": "Bhagvad Gita - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Bhagvad Gita/Bhagvad Gita - Volume 1.pdf",
+            "size": 7170105
+          },
+          {
+            "name": "Bhagvad Gita - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Bhagvad Gita/Bhagvad Gita - Volume 2.pdf",
+            "size": 7906059
+          }
+        ]
+      },
+      {
+        "name": "Brahma sphuta siddhanta",
+        "type": "folder",
+        "path": "/Brahma sphuta siddhanta",
+        "children": [
+          {
+            "name": "Brahma sphuta siddhanta - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Brahma sphuta siddhanta/Brahma sphuta siddhanta - Volume 1.pdf",
+            "size": 4877700
+          }
+        ]
+      },
+      {
+        "name": "DhanurVeda",
+        "type": "folder",
+        "path": "/DhanurVeda",
+        "children": [
+          {
+            "name": "DhanurVeda - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/DhanurVeda/DhanurVeda - Volume 1.pdf",
+            "size": 3642610
+          }
+        ]
+      },
+      {
+        "name": "Important Granths",
+        "type": "folder",
+        "path": "/Important Granths",
+        "children": [
+          {
+            "name": "Important Granths - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Important Granths/Important Granths - Volume 1.pdf",
+            "size": 8238533
+          },
+          {
+            "name": "Important Granths - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Important Granths/Important Granths - Volume 2.pdf",
+            "size": 9001864
+          }
+        ]
+      },
+      {
+        "name": "Mahabharata _ Geeta",
+        "type": "folder",
+        "path": "/Mahabharata _ Geeta",
+        "children": [
+          {
+            "name": "Mahabharata _ Geeta - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 1.pdf",
+            "size": 5715478
+          },
+          {
+            "name": "Mahabharata _ Geeta - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 2.pdf",
+            "size": 5541835
+          },
+          {
+            "name": "Mahabharata _ Geeta - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Mahabharata _ Geeta/Mahabharata _ Geeta - Volume 3.pdf",
+            "size": 1641199
+          }
+        ]
+      },
+      {
+        "name": "Niti Shastra",
+        "type": "folder",
+        "path": "/Niti Shastra",
+        "children": [
+          {
+            "name": "Niti Shastra - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Niti Shastra/Niti Shastra - Volume 1.pdf",
+            "size": 1316033
+          },
+          {
+            "name": "Niti Shastra - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Niti Shastra/Niti Shastra - Volume 2.pdf",
+            "size": 4507973
+          },
+          {
+            "name": "Niti Shastra - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Niti Shastra/Niti Shastra - Volume 3.pdf",
+            "size": 4611607
+          }
+        ]
+      },
+      {
+        "name": "Panini",
+        "type": "folder",
+        "path": "/Panini",
+        "children": [
+          {
+            "name": "Panini - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Panini/Panini - Volume 1.pdf",
+            "size": 2409306
+          },
+          {
+            "name": "Panini - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Panini/Panini - Volume 2.pdf",
+            "size": 1292036
+          },
+          {
+            "name": "Panini - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Panini/Panini - Volume 3.pdf",
+            "size": 3998599
+          }
+        ]
+      },
+      {
+        "name": "Ramayan _ more",
+        "type": "folder",
+        "path": "/Ramayan _ more",
+        "children": [
+          {
+            "name": "Ramayan _ more - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Ramayan _ more/Ramayan _ more - Volume 1.pdf",
+            "size": 6199982
+          }
+        ]
+      },
+      {
+        "name": "Science in ved",
+        "type": "folder",
+        "path": "/Science in ved",
+        "children": [
+          {
+            "name": "Science in ved - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Science in ved/Science in ved - Volume 1.pdf",
+            "size": 1909677
+          }
+        ]
+      },
+      {
+        "name": "SHRI SHANKARACHARYA JI WORKS",
+        "type": "folder",
+        "path": "/SHRI SHANKARACHARYA JI WORKS",
+        "children": [
+          {
+            "name": "SHRI SHANKARACHARYA JI WORKS - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/SHRI SHANKARACHARYA JI WORKS/SHRI SHANKARACHARYA JI WORKS - Volume 1.pdf",
+            "size": 4413568
+          },
+          {
+            "name": "SHRI SHANKARACHARYA JI WORKS - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/SHRI SHANKARACHARYA JI WORKS/SHRI SHANKARACHARYA JI WORKS - Volume 2.pdf",
+            "size": 6444868
+          }
+        ]
+      },
+      {
+        "name": "Shri YogaVasishtha",
+        "type": "folder",
+        "path": "/Shri YogaVasishtha",
+        "children": [
+          {
+            "name": "Shri YogaVasishtha - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 1.pdf",
+            "size": 10279544
+          },
+          {
+            "name": "Shri YogaVasishtha - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 2.pdf",
+            "size": 8876898
+          },
+          {
+            "name": "Shri YogaVasishtha - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Shri YogaVasishtha/Shri YogaVasishtha - Volume 3.pdf",
+            "size": 4374919
+          }
+        ]
+      },
+      {
+        "name": "Sikh Guru",
+        "type": "folder",
+        "path": "/Sikh Guru",
+        "children": [
+          {
+            "name": "Sikh Guru - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Sikh Guru/Sikh Guru - Volume 1.pdf",
+            "size": 6136427
+          }
+        ]
+      },
+      {
+        "name": "Upanishads",
+        "type": "folder",
+        "path": "/Upanishads",
+        "children": [
+          {
+            "name": "Upanishads - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Upanishads/Upanishads - Volume 1.pdf",
+            "size": 2771622
+          },
+          {
+            "name": "Upanishads - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Upanishads/Upanishads - Volume 2.pdf",
+            "size": 9417369
+          },
+          {
+            "name": "Upanishads - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Upanishads/Upanishads - Volume 3.pdf",
+            "size": 6239961
+          }
+        ]
+      },
+      {
+        "name": "vacaspetyam",
+        "type": "folder",
+        "path": "/vacaspetyam",
+        "children": [
+          {
+            "name": "vacaspetyam - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/vacaspetyam/vacaspetyam - Volume 1.pdf",
+            "size": 8267607
+          },
+          {
+            "name": "vacaspetyam - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/vacaspetyam/vacaspetyam - Volume 2.pdf",
+            "size": 1244757
+          }
+        ]
+      },
+      {
+        "name": "vaidik vigyan",
+        "type": "folder",
+        "path": "/vaidik vigyan",
+        "children": [
+          {
+            "name": "vaidik vigyan - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/vaidik vigyan/vaidik vigyan - Volume 1.pdf",
+            "size": 1233930
+          },
+          {
+            "name": "vaidik vigyan - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/vaidik vigyan/vaidik vigyan - Volume 2.pdf",
+            "size": 1253309
+          },
+          {
+            "name": "vaidik vigyan - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/vaidik vigyan/vaidik vigyan - Volume 3.pdf",
+            "size": 2066196
+          }
+        ]
+      },
+      {
+        "name": "Varaha Mihira",
+        "type": "folder",
+        "path": "/Varaha Mihira",
+        "children": [
+          {
+            "name": "Varaha Mihira - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Varaha Mihira/Varaha Mihira - Volume 1.pdf",
+            "size": 4825238
+          },
+          {
+            "name": "Varaha Mihira - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Varaha Mihira/Varaha Mihira - Volume 2.pdf",
+            "size": 9966907
+          },
+          {
+            "name": "Varaha Mihira - Volume 3.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Varaha Mihira/Varaha Mihira - Volume 3.pdf",
+            "size": 5085204
+          }
+        ]
+      },
+      {
+        "name": "Vedas(ENGLISH&HINDI)",
+        "type": "folder",
+        "path": "/Vedas(ENGLISH&HINDI)",
+        "children": [
+          {
+            "name": "Vedas(ENGLISH&HINDI) - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Vedas(ENGLISH&HINDI)/Vedas(ENGLISH&HINDI) - Volume 1.pdf",
+            "size": 6760781
+          },
+          {
+            "name": "Vedas(ENGLISH&HINDI) - Volume 2.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Vedas(ENGLISH&HINDI)/Vedas(ENGLISH&HINDI) - Volume 2.pdf",
+            "size": 8221392
+          }
+        ]
+      },
+      {
+        "name": "Vimanik Shastras In Sanatan Dharma",
+        "type": "folder",
+        "path": "/Vimanik Shastras In Sanatan Dharma",
+        "children": [
+          {
+            "name": "Vimanik Shastras In Sanatan Dharma - Volume 1.pdf",
+            "type": "file",
+            "fileType": "pdf",
+            "path": "/Vimanik Shastras In Sanatan Dharma/Vimanik Shastras In Sanatan Dharma - Volume 1.pdf",
+            "size": 7405699
+          }
+        ]
+      },
+      {
+        "name": "PURANAS IN HINDI AND ENGLISH",
+        "type": "file",
+        "fileType": "pdf",
+        "path": "/PURANAS IN HINDI AND ENGLISH.pdf",
+        "size": 257000
+      }
+    ]
+  }
+}
